@@ -1,0 +1,1642 @@
+{
+  "unmarked": [
+    {
+      "id": "cal-1342-01",
+      "length_group": "30-99",
+      "total_words": 88,
+      "distinct_words": 68,
+      "green_words": 41,
+      "green_fraction": 0.4659090909090909,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-02",
+      "length_group": "100-199",
+      "total_words": 141,
+      "distinct_words": 100,
+      "green_words": 64,
+      "green_fraction": 0.45390070921985815,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-03",
+      "length_group": "200-400",
+      "total_words": 319,
+      "distinct_words": 185,
+      "green_words": 138,
+      "green_fraction": 0.43260188087774293,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-04",
+      "length_group": "30-99",
+      "total_words": 35,
+      "distinct_words": 26,
+      "green_words": 14,
+      "green_fraction": 0.4,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-05",
+      "length_group": "100-199",
+      "total_words": 147,
+      "distinct_words": 98,
+      "green_words": 76,
+      "green_fraction": 0.5170068027210885,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-06",
+      "length_group": "200-400",
+      "total_words": 353,
+      "distinct_words": 195,
+      "green_words": 159,
+      "green_fraction": 0.45042492917847027,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-07",
+      "length_group": "30-99",
+      "total_words": 64,
+      "distinct_words": 52,
+      "green_words": 34,
+      "green_fraction": 0.53125,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-08",
+      "length_group": "100-199",
+      "total_words": 166,
+      "distinct_words": 107,
+      "green_words": 88,
+      "green_fraction": 0.5301204819277109,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-09",
+      "length_group": "200-400",
+      "total_words": 260,
+      "distinct_words": 145,
+      "green_words": 125,
+      "green_fraction": 0.4807692307692308,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-10",
+      "length_group": "30-99",
+      "total_words": 79,
+      "distinct_words": 65,
+      "green_words": 36,
+      "green_fraction": 0.45569620253164556,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-11",
+      "length_group": "100-199",
+      "total_words": 105,
+      "distinct_words": 77,
+      "green_words": 52,
+      "green_fraction": 0.49523809523809526,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-12",
+      "length_group": "200-400",
+      "total_words": 320,
+      "distinct_words": 183,
+      "green_words": 143,
+      "green_fraction": 0.446875,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-13",
+      "length_group": "30-99",
+      "total_words": 62,
+      "distinct_words": 53,
+      "green_words": 27,
+      "green_fraction": 0.43548387096774194,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-14",
+      "length_group": "100-199",
+      "total_words": 151,
+      "distinct_words": 108,
+      "green_words": 72,
+      "green_fraction": 0.4768211920529801,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-15",
+      "length_group": "200-400",
+      "total_words": 268,
+      "distinct_words": 162,
+      "green_words": 124,
+      "green_fraction": 0.4626865671641791,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-16",
+      "length_group": "30-99",
+      "total_words": 78,
+      "distinct_words": 62,
+      "green_words": 38,
+      "green_fraction": 0.48717948717948717,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-17",
+      "length_group": "100-199",
+      "total_words": 170,
+      "distinct_words": 111,
+      "green_words": 73,
+      "green_fraction": 0.4294117647058823,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-18",
+      "length_group": "200-400",
+      "total_words": 283,
+      "distinct_words": 161,
+      "green_words": 123,
+      "green_fraction": 0.43462897526501765,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-19",
+      "length_group": "30-99",
+      "total_words": 41,
+      "distinct_words": 30,
+      "green_words": 14,
+      "green_fraction": 0.34146341463414637,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-20",
+      "length_group": "100-199",
+      "total_words": 144,
+      "distinct_words": 108,
+      "green_words": 73,
+      "green_fraction": 0.5069444444444444,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-21",
+      "length_group": "200-400",
+      "total_words": 373,
+      "distinct_words": 192,
+      "green_words": 171,
+      "green_fraction": 0.4584450402144772,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-22",
+      "length_group": "30-99",
+      "total_words": 81,
+      "distinct_words": 64,
+      "green_words": 38,
+      "green_fraction": 0.4691358024691358,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-23",
+      "length_group": "100-199",
+      "total_words": 157,
+      "distinct_words": 101,
+      "green_words": 73,
+      "green_fraction": 0.46496815286624205,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-24",
+      "length_group": "200-400",
+      "total_words": 294,
+      "distinct_words": 156,
+      "green_words": 136,
+      "green_fraction": 0.46258503401360546,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-25",
+      "length_group": "30-99",
+      "total_words": 91,
+      "distinct_words": 78,
+      "green_words": 39,
+      "green_fraction": 0.42857142857142855,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-26",
+      "length_group": "100-199",
+      "total_words": 140,
+      "distinct_words": 93,
+      "green_words": 68,
+      "green_fraction": 0.4857142857142857,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-27",
+      "length_group": "200-400",
+      "total_words": 346,
+      "distinct_words": 206,
+      "green_words": 180,
+      "green_fraction": 0.5202312138728323,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-28",
+      "length_group": "30-99",
+      "total_words": 41,
+      "distinct_words": 34,
+      "green_words": 15,
+      "green_fraction": 0.36585365853658536,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-29",
+      "length_group": "100-199",
+      "total_words": 120,
+      "distinct_words": 91,
+      "green_words": 58,
+      "green_fraction": 0.48333333333333334,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-30",
+      "length_group": "200-400",
+      "total_words": 272,
+      "distinct_words": 151,
+      "green_words": 138,
+      "green_fraction": 0.5073529411764706,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-31",
+      "length_group": "30-99",
+      "total_words": 78,
+      "distinct_words": 52,
+      "green_words": 42,
+      "green_fraction": 0.5384615384615384,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-32",
+      "length_group": "100-199",
+      "total_words": 168,
+      "distinct_words": 106,
+      "green_words": 70,
+      "green_fraction": 0.4166666666666667,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-33",
+      "length_group": "200-400",
+      "total_words": 279,
+      "distinct_words": 158,
+      "green_words": 122,
+      "green_fraction": 0.43727598566308246,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-34",
+      "length_group": "30-99",
+      "total_words": 39,
+      "distinct_words": 31,
+      "green_words": 18,
+      "green_fraction": 0.46153846153846156,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-35",
+      "length_group": "100-199",
+      "total_words": 173,
+      "distinct_words": 118,
+      "green_words": 86,
+      "green_fraction": 0.49710982658959535,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-36",
+      "length_group": "200-400",
+      "total_words": 275,
+      "distinct_words": 168,
+      "green_words": 116,
+      "green_fraction": 0.4218181818181818,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-37",
+      "length_group": "30-99",
+      "total_words": 67,
+      "distinct_words": 52,
+      "green_words": 32,
+      "green_fraction": 0.47761194029850745,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-38",
+      "length_group": "100-199",
+      "total_words": 199,
+      "distinct_words": 140,
+      "green_words": 91,
+      "green_fraction": 0.457286432160804,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-39",
+      "length_group": "200-400",
+      "total_words": 337,
+      "distinct_words": 199,
+      "green_words": 171,
+      "green_fraction": 0.5074183976261127,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-40",
+      "length_group": "30-99",
+      "total_words": 99,
+      "distinct_words": 74,
+      "green_words": 42,
+      "green_fraction": 0.42424242424242425,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-41",
+      "length_group": "100-199",
+      "total_words": 101,
+      "distinct_words": 74,
+      "green_words": 48,
+      "green_fraction": 0.4752475247524752,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-42",
+      "length_group": "200-400",
+      "total_words": 268,
+      "distinct_words": 156,
+      "green_words": 131,
+      "green_fraction": 0.48880597014925375,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-43",
+      "length_group": "30-99",
+      "total_words": 98,
+      "distinct_words": 73,
+      "green_words": 44,
+      "green_fraction": 0.4489795918367347,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-44",
+      "length_group": "100-199",
+      "total_words": 166,
+      "distinct_words": 104,
+      "green_words": 73,
+      "green_fraction": 0.4397590361445783,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-45",
+      "length_group": "200-400",
+      "total_words": 236,
+      "distinct_words": 148,
+      "green_words": 107,
+      "green_fraction": 0.4533898305084746,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-46",
+      "length_group": "30-99",
+      "total_words": 60,
+      "distinct_words": 46,
+      "green_words": 29,
+      "green_fraction": 0.48333333333333334,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-47",
+      "length_group": "100-199",
+      "total_words": 179,
+      "distinct_words": 118,
+      "green_words": 79,
+      "green_fraction": 0.441340782122905,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-48",
+      "length_group": "200-400",
+      "total_words": 293,
+      "distinct_words": 171,
+      "green_words": 139,
+      "green_fraction": 0.47440273037542663,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-49",
+      "length_group": "30-99",
+      "total_words": 44,
+      "distinct_words": 39,
+      "green_words": 13,
+      "green_fraction": 0.29545454545454547,
+      "flagged": false
+    },
+    {
+      "id": "cal-1342-50",
+      "length_group": "100-199",
+      "total_words": 182,
+      "distinct_words": 118,
+      "green_words": 76,
+      "green_fraction": 0.4175824175824176,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-01",
+      "length_group": "30-99",
+      "total_words": 75,
+      "distinct_words": 61,
+      "green_words": 35,
+      "green_fraction": 0.4666666666666667,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-02",
+      "length_group": "100-199",
+      "total_words": 116,
+      "distinct_words": 72,
+      "green_words": 63,
+      "green_fraction": 0.5431034482758621,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-03",
+      "length_group": "200-400",
+      "total_words": 309,
+      "distinct_words": 193,
+      "green_words": 149,
+      "green_fraction": 0.48220064724919093,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-04",
+      "length_group": "30-99",
+      "total_words": 95,
+      "distinct_words": 69,
+      "green_words": 41,
+      "green_fraction": 0.43157894736842106,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-05",
+      "length_group": "100-199",
+      "total_words": 157,
+      "distinct_words": 105,
+      "green_words": 82,
+      "green_fraction": 0.5222929936305732,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-06",
+      "length_group": "200-400",
+      "total_words": 252,
+      "distinct_words": 158,
+      "green_words": 117,
+      "green_fraction": 0.4642857142857143,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-07",
+      "length_group": "30-99",
+      "total_words": 93,
+      "distinct_words": 66,
+      "green_words": 49,
+      "green_fraction": 0.5268817204301075,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-08",
+      "length_group": "100-199",
+      "total_words": 180,
+      "distinct_words": 116,
+      "green_words": 79,
+      "green_fraction": 0.4388888888888889,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-09",
+      "length_group": "200-400",
+      "total_words": 270,
+      "distinct_words": 163,
+      "green_words": 137,
+      "green_fraction": 0.5074074074074074,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-10",
+      "length_group": "30-99",
+      "total_words": 48,
+      "distinct_words": 37,
+      "green_words": 22,
+      "green_fraction": 0.4583333333333333,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-11",
+      "length_group": "100-199",
+      "total_words": 125,
+      "distinct_words": 87,
+      "green_words": 61,
+      "green_fraction": 0.488,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-12",
+      "length_group": "200-400",
+      "total_words": 331,
+      "distinct_words": 202,
+      "green_words": 176,
+      "green_fraction": 0.5317220543806647,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-13",
+      "length_group": "30-99",
+      "total_words": 66,
+      "distinct_words": 45,
+      "green_words": 29,
+      "green_fraction": 0.4393939393939394,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-14",
+      "length_group": "100-199",
+      "total_words": 188,
+      "distinct_words": 125,
+      "green_words": 84,
+      "green_fraction": 0.44680851063829785,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-15",
+      "length_group": "200-400",
+      "total_words": 265,
+      "distinct_words": 156,
+      "green_words": 118,
+      "green_fraction": 0.44528301886792454,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-16",
+      "length_group": "30-99",
+      "total_words": 75,
+      "distinct_words": 57,
+      "green_words": 30,
+      "green_fraction": 0.4,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-17",
+      "length_group": "100-199",
+      "total_words": 169,
+      "distinct_words": 103,
+      "green_words": 79,
+      "green_fraction": 0.46745562130177515,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-18",
+      "length_group": "200-400",
+      "total_words": 399,
+      "distinct_words": 219,
+      "green_words": 170,
+      "green_fraction": 0.42606516290726815,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-19",
+      "length_group": "30-99",
+      "total_words": 64,
+      "distinct_words": 50,
+      "green_words": 37,
+      "green_fraction": 0.578125,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-20",
+      "length_group": "100-199",
+      "total_words": 180,
+      "distinct_words": 113,
+      "green_words": 82,
+      "green_fraction": 0.45555555555555555,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-21",
+      "length_group": "200-400",
+      "total_words": 336,
+      "distinct_words": 200,
+      "green_words": 148,
+      "green_fraction": 0.44047619047619047,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-22",
+      "length_group": "30-99",
+      "total_words": 58,
+      "distinct_words": 51,
+      "green_words": 21,
+      "green_fraction": 0.3620689655172414,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-23",
+      "length_group": "100-199",
+      "total_words": 181,
+      "distinct_words": 117,
+      "green_words": 77,
+      "green_fraction": 0.425414364640884,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-24",
+      "length_group": "200-400",
+      "total_words": 348,
+      "distinct_words": 204,
+      "green_words": 149,
+      "green_fraction": 0.4281609195402299,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-25",
+      "length_group": "30-99",
+      "total_words": 89,
+      "distinct_words": 66,
+      "green_words": 44,
+      "green_fraction": 0.4943820224719101,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-26",
+      "length_group": "100-199",
+      "total_words": 184,
+      "distinct_words": 115,
+      "green_words": 101,
+      "green_fraction": 0.5489130434782609,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-27",
+      "length_group": "200-400",
+      "total_words": 344,
+      "distinct_words": 189,
+      "green_words": 163,
+      "green_fraction": 0.4738372093023256,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-28",
+      "length_group": "30-99",
+      "total_words": 97,
+      "distinct_words": 64,
+      "green_words": 42,
+      "green_fraction": 0.4329896907216495,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-29",
+      "length_group": "100-199",
+      "total_words": 141,
+      "distinct_words": 90,
+      "green_words": 68,
+      "green_fraction": 0.48226950354609927,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-30",
+      "length_group": "200-400",
+      "total_words": 340,
+      "distinct_words": 194,
+      "green_words": 154,
+      "green_fraction": 0.45294117647058824,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-31",
+      "length_group": "30-99",
+      "total_words": 43,
+      "distinct_words": 38,
+      "green_words": 22,
+      "green_fraction": 0.5116279069767442,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-32",
+      "length_group": "100-199",
+      "total_words": 191,
+      "distinct_words": 124,
+      "green_words": 82,
+      "green_fraction": 0.4293193717277487,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-33",
+      "length_group": "200-400",
+      "total_words": 261,
+      "distinct_words": 165,
+      "green_words": 121,
+      "green_fraction": 0.46360153256704983,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-34",
+      "length_group": "30-99",
+      "total_words": 63,
+      "distinct_words": 48,
+      "green_words": 33,
+      "green_fraction": 0.5238095238095238,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-35",
+      "length_group": "100-199",
+      "total_words": 156,
+      "distinct_words": 110,
+      "green_words": 79,
+      "green_fraction": 0.5064102564102564,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-36",
+      "length_group": "200-400",
+      "total_words": 307,
+      "distinct_words": 180,
+      "green_words": 145,
+      "green_fraction": 0.4723127035830619,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-37",
+      "length_group": "30-99",
+      "total_words": 42,
+      "distinct_words": 34,
+      "green_words": 24,
+      "green_fraction": 0.5714285714285714,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-38",
+      "length_group": "100-199",
+      "total_words": 184,
+      "distinct_words": 124,
+      "green_words": 85,
+      "green_fraction": 0.46195652173913043,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-39",
+      "length_group": "200-400",
+      "total_words": 374,
+      "distinct_words": 209,
+      "green_words": 184,
+      "green_fraction": 0.4919786096256685,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-40",
+      "length_group": "30-99",
+      "total_words": 35,
+      "distinct_words": 30,
+      "green_words": 22,
+      "green_fraction": 0.6285714285714286,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-41",
+      "length_group": "100-199",
+      "total_words": 177,
+      "distinct_words": 128,
+      "green_words": 83,
+      "green_fraction": 0.4689265536723164,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-42",
+      "length_group": "200-400",
+      "total_words": 291,
+      "distinct_words": 164,
+      "green_words": 134,
+      "green_fraction": 0.46048109965635736,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-43",
+      "length_group": "30-99",
+      "total_words": 59,
+      "distinct_words": 45,
+      "green_words": 26,
+      "green_fraction": 0.4406779661016949,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-44",
+      "length_group": "100-199",
+      "total_words": 105,
+      "distinct_words": 75,
+      "green_words": 45,
+      "green_fraction": 0.42857142857142855,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-45",
+      "length_group": "200-400",
+      "total_words": 333,
+      "distinct_words": 189,
+      "green_words": 151,
+      "green_fraction": 0.45345345345345345,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-46",
+      "length_group": "30-99",
+      "total_words": 48,
+      "distinct_words": 40,
+      "green_words": 20,
+      "green_fraction": 0.4166666666666667,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-47",
+      "length_group": "100-199",
+      "total_words": 165,
+      "distinct_words": 108,
+      "green_words": 81,
+      "green_fraction": 0.4909090909090909,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-48",
+      "length_group": "200-400",
+      "total_words": 336,
+      "distinct_words": 188,
+      "green_words": 145,
+      "green_fraction": 0.43154761904761907,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-49",
+      "length_group": "30-99",
+      "total_words": 54,
+      "distinct_words": 40,
+      "green_words": 30,
+      "green_fraction": 0.5555555555555556,
+      "flagged": false
+    },
+    {
+      "id": "cal-84-50",
+      "length_group": "100-199",
+      "total_words": 142,
+      "distinct_words": 96,
+      "green_words": 61,
+      "green_fraction": 0.4295774647887324,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-01",
+      "length_group": "30-99",
+      "total_words": 75,
+      "distinct_words": 59,
+      "green_words": 34,
+      "green_fraction": 0.4533333333333333,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-02",
+      "length_group": "100-199",
+      "total_words": 132,
+      "distinct_words": 89,
+      "green_words": 60,
+      "green_fraction": 0.45454545454545453,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-03",
+      "length_group": "200-400",
+      "total_words": 345,
+      "distinct_words": 174,
+      "green_words": 158,
+      "green_fraction": 0.4579710144927536,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-04",
+      "length_group": "30-99",
+      "total_words": 30,
+      "distinct_words": 27,
+      "green_words": 11,
+      "green_fraction": 0.36666666666666664,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-05",
+      "length_group": "100-199",
+      "total_words": 171,
+      "distinct_words": 119,
+      "green_words": 81,
+      "green_fraction": 0.47368421052631576,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-06",
+      "length_group": "200-400",
+      "total_words": 270,
+      "distinct_words": 144,
+      "green_words": 123,
+      "green_fraction": 0.45555555555555555,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-07",
+      "length_group": "30-99",
+      "total_words": 62,
+      "distinct_words": 49,
+      "green_words": 20,
+      "green_fraction": 0.3225806451612903,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-08",
+      "length_group": "100-199",
+      "total_words": 172,
+      "distinct_words": 113,
+      "green_words": 72,
+      "green_fraction": 0.4186046511627907,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-09",
+      "length_group": "200-400",
+      "total_words": 282,
+      "distinct_words": 162,
+      "green_words": 121,
+      "green_fraction": 0.42907801418439717,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-10",
+      "length_group": "30-99",
+      "total_words": 63,
+      "distinct_words": 50,
+      "green_words": 23,
+      "green_fraction": 0.36507936507936506,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-11",
+      "length_group": "100-199",
+      "total_words": 186,
+      "distinct_words": 128,
+      "green_words": 82,
+      "green_fraction": 0.44086021505376344,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-12",
+      "length_group": "200-400",
+      "total_words": 290,
+      "distinct_words": 153,
+      "green_words": 130,
+      "green_fraction": 0.4482758620689655,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-13",
+      "length_group": "30-99",
+      "total_words": 59,
+      "distinct_words": 43,
+      "green_words": 22,
+      "green_fraction": 0.3728813559322034,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-14",
+      "length_group": "100-199",
+      "total_words": 179,
+      "distinct_words": 116,
+      "green_words": 80,
+      "green_fraction": 0.44692737430167595,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-15",
+      "length_group": "200-400",
+      "total_words": 239,
+      "distinct_words": 150,
+      "green_words": 95,
+      "green_fraction": 0.39748953974895396,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-16",
+      "length_group": "30-99",
+      "total_words": 79,
+      "distinct_words": 60,
+      "green_words": 35,
+      "green_fraction": 0.4430379746835443,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-17",
+      "length_group": "100-199",
+      "total_words": 158,
+      "distinct_words": 103,
+      "green_words": 78,
+      "green_fraction": 0.4936708860759494,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-18",
+      "length_group": "200-400",
+      "total_words": 373,
+      "distinct_words": 224,
+      "green_words": 163,
+      "green_fraction": 0.43699731903485256,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-19",
+      "length_group": "30-99",
+      "total_words": 73,
+      "distinct_words": 59,
+      "green_words": 30,
+      "green_fraction": 0.410958904109589,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-20",
+      "length_group": "100-199",
+      "total_words": 192,
+      "distinct_words": 113,
+      "green_words": 91,
+      "green_fraction": 0.4739583333333333,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-21",
+      "length_group": "200-400",
+      "total_words": 262,
+      "distinct_words": 169,
+      "green_words": 129,
+      "green_fraction": 0.49236641221374045,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-22",
+      "length_group": "30-99",
+      "total_words": 42,
+      "distinct_words": 34,
+      "green_words": 19,
+      "green_fraction": 0.4523809523809524,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-23",
+      "length_group": "100-199",
+      "total_words": 185,
+      "distinct_words": 105,
+      "green_words": 83,
+      "green_fraction": 0.4486486486486487,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-24",
+      "length_group": "200-400",
+      "total_words": 304,
+      "distinct_words": 174,
+      "green_words": 143,
+      "green_fraction": 0.47039473684210525,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-25",
+      "length_group": "30-99",
+      "total_words": 74,
+      "distinct_words": 62,
+      "green_words": 35,
+      "green_fraction": 0.47297297297297297,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-26",
+      "length_group": "100-199",
+      "total_words": 171,
+      "distinct_words": 108,
+      "green_words": 81,
+      "green_fraction": 0.47368421052631576,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-27",
+      "length_group": "200-400",
+      "total_words": 270,
+      "distinct_words": 166,
+      "green_words": 117,
+      "green_fraction": 0.43333333333333335,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-28",
+      "length_group": "30-99",
+      "total_words": 97,
+      "distinct_words": 69,
+      "green_words": 50,
+      "green_fraction": 0.5154639175257731,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-29",
+      "length_group": "100-199",
+      "total_words": 153,
+      "distinct_words": 97,
+      "green_words": 80,
+      "green_fraction": 0.5228758169934641,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-30",
+      "length_group": "200-400",
+      "total_words": 291,
+      "distinct_words": 158,
+      "green_words": 140,
+      "green_fraction": 0.48109965635738833,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-31",
+      "length_group": "30-99",
+      "total_words": 54,
+      "distinct_words": 44,
+      "green_words": 25,
+      "green_fraction": 0.46296296296296297,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-32",
+      "length_group": "100-199",
+      "total_words": 164,
+      "distinct_words": 110,
+      "green_words": 74,
+      "green_fraction": 0.45121951219512196,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-33",
+      "length_group": "200-400",
+      "total_words": 262,
+      "distinct_words": 153,
+      "green_words": 134,
+      "green_fraction": 0.5114503816793893,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-34",
+      "length_group": "30-99",
+      "total_words": 82,
+      "distinct_words": 61,
+      "green_words": 39,
+      "green_fraction": 0.47560975609756095,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-35",
+      "length_group": "100-199",
+      "total_words": 114,
+      "distinct_words": 78,
+      "green_words": 55,
+      "green_fraction": 0.4824561403508772,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-36",
+      "length_group": "200-400",
+      "total_words": 290,
+      "distinct_words": 171,
+      "green_words": 127,
+      "green_fraction": 0.4379310344827586,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-37",
+      "length_group": "30-99",
+      "total_words": 79,
+      "distinct_words": 56,
+      "green_words": 35,
+      "green_fraction": 0.4430379746835443,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-38",
+      "length_group": "100-199",
+      "total_words": 132,
+      "distinct_words": 91,
+      "green_words": 65,
+      "green_fraction": 0.49242424242424243,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-39",
+      "length_group": "200-400",
+      "total_words": 314,
+      "distinct_words": 193,
+      "green_words": 151,
+      "green_fraction": 0.48089171974522293,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-40",
+      "length_group": "30-99",
+      "total_words": 80,
+      "distinct_words": 68,
+      "green_words": 33,
+      "green_fraction": 0.4125,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-41",
+      "length_group": "100-199",
+      "total_words": 139,
+      "distinct_words": 95,
+      "green_words": 57,
+      "green_fraction": 0.41007194244604317,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-42",
+      "length_group": "200-400",
+      "total_words": 293,
+      "distinct_words": 167,
+      "green_words": 134,
+      "green_fraction": 0.45733788395904434,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-43",
+      "length_group": "30-99",
+      "total_words": 54,
+      "distinct_words": 46,
+      "green_words": 15,
+      "green_fraction": 0.2777777777777778,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-44",
+      "length_group": "100-199",
+      "total_words": 142,
+      "distinct_words": 95,
+      "green_words": 53,
+      "green_fraction": 0.3732394366197183,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-45",
+      "length_group": "200-400",
+      "total_words": 305,
+      "distinct_words": 156,
+      "green_words": 128,
+      "green_fraction": 0.419672131147541,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-46",
+      "length_group": "30-99",
+      "total_words": 63,
+      "distinct_words": 48,
+      "green_words": 28,
+      "green_fraction": 0.4444444444444444,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-47",
+      "length_group": "100-199",
+      "total_words": 166,
+      "distinct_words": 98,
+      "green_words": 87,
+      "green_fraction": 0.5240963855421686,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-48",
+      "length_group": "200-400",
+      "total_words": 319,
+      "distinct_words": 159,
+      "green_words": 172,
+      "green_fraction": 0.5391849529780565,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-49",
+      "length_group": "30-99",
+      "total_words": 80,
+      "distinct_words": 56,
+      "green_words": 41,
+      "green_fraction": 0.5125,
+      "flagged": false
+    },
+    {
+      "id": "cal-1661-50",
+      "length_group": "100-199",
+      "total_words": 155,
+      "distinct_words": 92,
+      "green_words": 68,
+      "green_fraction": 0.43870967741935485,
+      "flagged": false
+    }
+  ],
+  "attempts": [
+    {
+      "id": "cal-1342-51",
+      "split": "calibration",
+      "before": {
+        "total_words": 172,
+        "distinct_words": 113,
+        "green_words": 72,
+        "green_fraction": 0.4186046511627907,
+        "flagged": false
+      },
+      "after": {
+        "total_words": 172,
+        "distinct_words": 113,
+        "green_words": 78,
+        "green_fraction": 0.45348837209302323,
+        "flagged": false
+      },
+      "target_reached": false,
+      "changed_words": 6,
+      "changes": [
+        {
+          "original_word_index": 164,
+          "before": "little",
+          "after": "small"
+        },
+        {
+          "original_word_index": 161,
+          "before": "perhaps",
+          "after": "maybe"
+        },
+        {
+          "original_word_index": 136,
+          "before": "said",
+          "after": "remarked"
+        },
+        {
+          "original_word_index": 130,
+          "before": "certainly",
+          "after": "surely"
+        },
+        {
+          "original_word_index": 101,
+          "before": "continued",
+          "after": "persisted"
+        },
+        {
+          "original_word_index": 80,
+          "before": "often",
+          "after": "frequently"
+        }
+      ],
+      "elapsed_seconds": 0.052114699967205524,
+      "manual_passage_editing_minutes": 0,
+      "editing_method": "Automatic fixed synonym list; one right-to-left pass.",
+      "output_path": "data/versions/cal-1342-51/output.txt",
+      "output_sha256": "329fb25ccb6bd894bfde440e1c6c1dd80e3b427d7a6248f47173fdacfa859e35",
+      "version_paths": [
+        "data/versions/cal-1342-51/v00.txt",
+        "data/versions/cal-1342-51/v01.txt",
+        "data/versions/cal-1342-51/v02.txt",
+        "data/versions/cal-1342-51/v03.txt",
+        "data/versions/cal-1342-51/v04.txt",
+        "data/versions/cal-1342-51/v05.txt",
+        "data/versions/cal-1342-51/v06.txt"
+      ],
+      "stop_reason": "end_of_pass"
+    },
+    {
+      "id": "cal-1342-52",
+      "split": "calibration",
+      "before": {
+        "total_words": 167,
+        "distinct_words": 113,
+        "green_words": 84,
+        "green_fraction": 0.5029940119760479,
+        "flagged": false
+      },
+      "after": {
+        "total_words": 167,
+        "distinct_words": 113,
+        "green_words": 88,
+        "green_fraction": 0.5269461077844312,
+        "flagged": false
+      },
+      "target_reached": false,
+      "changed_words": 4,
+      "changes": [
+        {
+          "original_word_index": 163,
+          "before": "certainly",
+          "after": "surely"
+        },
+        {
+          "original_word_index": 141,
+          "before": "said",
+          "after": "remarked"
+        },
+        {
+          "original_word_index": 140,
+          "before": "difficult",
+          "after": "hard"
+        },
+        {
+          "original_word_index": 58,
+          "before": "said",
+          "after": "remarked"
+        }
+      ],
+      "elapsed_seconds": 0.048428400070406497,
+      "manual_passage_editing_minutes": 0,
+      "editing_method": "Automatic fixed synonym list; one right-to-left pass.",
+      "output_path": "data/versions/cal-1342-52/output.txt",
+      "output_sha256": "ed029ee32b6142f3224c19f73c0be59c36fc7ba27ae6fe045c0ada3eaf2e692f",
+      "version_paths": [
+        "data/versions/cal-1342-52/v00.txt",
+        "data/versions/cal-1342-52/v01.txt",
+        "data/versions/cal-1342-52/v02.txt",
+        "data/versions/cal-1342-52/v03.txt",
+        "data/versions/cal-1342-52/v04.txt"
+      ],
+      "stop_reason": "end_of_pass"
+    },
+    {
+      "id": "cal-84-51",
+      "split": "calibration",
+      "before": {
+        "total_words": 169,
+        "distinct_words": 111,
+        "green_words": 71,
+        "green_fraction": 0.42011834319526625,
+        "flagged": false
+      },
+      "after": {
+        "total_words": 169,
+        "distinct_words": 111,
+        "green_words": 74,
+        "green_fraction": 0.4378698224852071,
+        "flagged": false
+      },
+      "target_reached": false,
+      "changed_words": 3,
+      "changes": [
+        {
+          "original_word_index": 136,
+          "before": "said",
+          "after": "remarked"
+        },
+        {
+          "original_word_index": 122,
+          "before": "said",
+          "after": "remarked"
+        },
+        {
+          "original_word_index": 49,
+          "before": "said",
+          "after": "remarked"
+        }
+      ],
+      "elapsed_seconds": 0.04810029990039766,
+      "manual_passage_editing_minutes": 0,
+      "editing_method": "Automatic fixed synonym list; one right-to-left pass.",
+      "output_path": "data/versions/cal-84-51/output.txt",
+      "output_sha256": "d9fc3a2599a86d026fc93b27e3915cc4ddd0b43eb1e9bf0a3122808a537e852b",
+      "version_paths": [
+        "data/versions/cal-84-51/v00.txt",
+        "data/versions/cal-84-51/v01.txt",
+        "data/versions/cal-84-51/v02.txt",
+        "data/versions/cal-84-51/v03.txt"
+      ],
+      "stop_reason": "end_of_pass"
+    },
+    {
+      "id": "cal-84-52",
+      "split": "calibration",
+      "before": {
+        "total_words": 188,
+        "distinct_words": 117,
+        "green_words": 71,
+        "green_fraction": 0.3776595744680851,
+        "flagged": false
+      },
+      "after": {
+        "total_words": 188,
+        "distinct_words": 117,
+        "green_words": 73,
+        "green_fraction": 0.3882978723404255,
+        "flagged": false
+      },
+      "target_reached": false,
+      "changed_words": 2,
+      "changes": [
+        {
+          "original_word_index": 128,
+          "before": "said",
+          "after": "remarked"
+        },
+        {
+          "original_word_index": 58,
+          "before": "said",
+          "after": "remarked"
+        }
+      ],
+      "elapsed_seconds": 0.0595527000259608,
+      "manual_passage_editing_minutes": 0,
+      "editing_method": "Automatic fixed synonym list; one right-to-left pass.",
+      "output_path": "data/versions/cal-84-52/output.txt",
+      "output_sha256": "31364442e0f3c6231d292210dfae1ffc94c5d6449e938703fee1e10be2576b6c",
+      "version_paths": [
+        "data/versions/cal-84-52/v00.txt",
+        "data/versions/cal-84-52/v01.txt",
+        "data/versions/cal-84-52/v02.txt"
+      ],
+      "stop_reason": "end_of_pass"
+    },
+    {
+      "id": "cal-1661-51",
+      "split": "calibration",
+      "before": {
+        "total_words": 150,
+        "distinct_words": 97,
+        "green_words": 77,
+        "green_fraction": 0.5133333333333333,
+        "flagged": false
+      },
+      "after": {
+        "total_words": 150,
+        "distinct_words": 97,
+        "green_words": 80,
+        "green_fraction": 0.5333333333333333,
+        "flagged": false
+      },
+      "target_reached": false,
+      "changed_words": 3,
+      "changes": [
+        {
+          "original_word_index": 135,
+          "before": "whole",
+          "after": "entire"
+        },
+        {
+          "original_word_index": 96,
+          "before": "said",
+          "after": "remarked"
+        },
+        {
+          "original_word_index": 8,
+          "before": "said",
+          "after": "remarked"
+        }
+      ],
+      "elapsed_seconds": 0.039742100052535534,
+      "manual_passage_editing_minutes": 0,
+      "editing_method": "Automatic fixed synonym list; one right-to-left pass.",
+      "output_path": "data/versions/cal-1661-51/output.txt",
+      "output_sha256": "08bf5b1bd24ef603f5859c22499e3139f541b963a96f5c0f9313c97ecf603eeb",
+      "version_paths": [
+        "data/versions/cal-1661-51/v00.txt",
+        "data/versions/cal-1661-51/v01.txt",
+        "data/versions/cal-1661-51/v02.txt",
+        "data/versions/cal-1661-51/v03.txt"
+      ],
+      "stop_reason": "end_of_pass"
+    }
+  ],
+  "candidates": [
+    {
+      "threshold": 0.55,
+      "flagged_unmarked": 4,
+      "unflagged_outputs": 5,
+      "selection_loss": 1.0266666666666666
+    },
+    {
+      "threshold": 0.6,
+      "flagged_unmarked": 1,
+      "unflagged_outputs": 5,
+      "selection_loss": 1.0066666666666666
+    },
+    {
+      "threshold": 0.65,
+      "flagged_unmarked": 0,
+      "unflagged_outputs": 5,
+      "selection_loss": 1.0
+    }
+  ],
+  "procedure_versions": [
+    "v1: fixed synonyms, target 0.70, at most 30 changes, one pass; no calibration revisions"
+  ]
+}

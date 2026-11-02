@@ -1,0 +1,16 @@
+review_id,reviewer,review_type,meaning_preserved,readable,review_seconds,notes
+R01,Preliminary check,preliminary_review,yes,yes,,Unchanged passage; meaning and readability retained.
+R02,Preliminary check,preliminary_review,yes,no,,"Main events retained, but believed Alice is an awkward replacement for a thought-reporting dialogue tag."
+R03,Preliminary check,preliminary_review,yes,no,,Persisted to rail and be a small softened are ungrammatical; the latter breaks the original idiom.
+R04,Preliminary check,preliminary_review,yes,yes,,Unchanged passage; meaning and readability retained.
+R05,Preliminary check,preliminary_review,yes,yes,,"Remarked, hard, and surely preserve the main exchange and remain readable."
+R06,Preliminary check,preliminary_review,yes,yes,,Remarked and entire preserve the advice and requests; the inverted speech tag remains readable in this style.
+R07,Preliminary check,preliminary_review,yes,yes,,The speech-tag substitution leaves the dispute and prose readable.
+R08,Preliminary check,preliminary_review,yes,no,,Believed over all she could remember breaks the thought over construction.
+R09,Preliminary check,preliminary_review,yes,no,,He inquired her the question is ungrammatical; dread preserves the main emotion.
+R10,Preliminary check,preliminary_review,yes,yes,,Speech-tag substitutions change tone slightly but retain the confession and visit narrative.
+R11,Preliminary check,preliminary_review,yes,yes,,"Speech-tag substitutions preserve the accusation, denial, and request to rise."
+R12,Preliminary check,preliminary_review,yes,yes,,Remarked and frequently preserve the account of buying mourning clothes.
+R13,Preliminary check,preliminary_review,yes,no,,Believed Alice is an awkward thought-reporting tag; the remaining substitutions preserve the scene.
+R14,Preliminary check,preliminary_review,yes,yes,,"The belief, time, size, and speech-tag substitutions remain readable and retain the main criticism."
+R15,Preliminary check,preliminary_review,yes,no,,Believed Alice is an awkward thought-reporting tag; the remaining narrative is comprehensible.

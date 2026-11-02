@@ -1,0 +1,1893 @@
+{
+  "started_after_settings_frozen": true,
+  "settings_sha256": "3e24394684de23e4767b9b5135c6f5550242fc5c53f25aba16b9979765a8ab78",
+  "unmarked": [
+    {
+      "id": "eva-11-01",
+      "length_group": "30-99",
+      "total_words": 40,
+      "distinct_words": 33,
+      "green_words": 23,
+      "green_fraction": 0.575,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-02",
+      "length_group": "100-199",
+      "total_words": 162,
+      "distinct_words": 96,
+      "green_words": 75,
+      "green_fraction": 0.46296296296296297,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-03",
+      "length_group": "200-400",
+      "total_words": 329,
+      "distinct_words": 170,
+      "green_words": 146,
+      "green_fraction": 0.44376899696048633,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-04",
+      "length_group": "30-99",
+      "total_words": 51,
+      "distinct_words": 43,
+      "green_words": 24,
+      "green_fraction": 0.47058823529411764,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-05",
+      "length_group": "100-199",
+      "total_words": 193,
+      "distinct_words": 102,
+      "green_words": 89,
+      "green_fraction": 0.46113989637305697,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-06",
+      "length_group": "200-400",
+      "total_words": 280,
+      "distinct_words": 165,
+      "green_words": 111,
+      "green_fraction": 0.3964285714285714,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-07",
+      "length_group": "30-99",
+      "total_words": 85,
+      "distinct_words": 66,
+      "green_words": 38,
+      "green_fraction": 0.4470588235294118,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-08",
+      "length_group": "100-199",
+      "total_words": 186,
+      "distinct_words": 116,
+      "green_words": 81,
+      "green_fraction": 0.43548387096774194,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-09",
+      "length_group": "200-400",
+      "total_words": 270,
+      "distinct_words": 154,
+      "green_words": 135,
+      "green_fraction": 0.5,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-10",
+      "length_group": "30-99",
+      "total_words": 89,
+      "distinct_words": 65,
+      "green_words": 48,
+      "green_fraction": 0.5393258426966292,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-11",
+      "length_group": "100-199",
+      "total_words": 146,
+      "distinct_words": 94,
+      "green_words": 73,
+      "green_fraction": 0.5,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-12",
+      "length_group": "200-400",
+      "total_words": 325,
+      "distinct_words": 188,
+      "green_words": 148,
+      "green_fraction": 0.4553846153846154,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-13",
+      "length_group": "30-99",
+      "total_words": 79,
+      "distinct_words": 59,
+      "green_words": 29,
+      "green_fraction": 0.3670886075949367,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-14",
+      "length_group": "100-199",
+      "total_words": 181,
+      "distinct_words": 128,
+      "green_words": 83,
+      "green_fraction": 0.4585635359116022,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-15",
+      "length_group": "200-400",
+      "total_words": 300,
+      "distinct_words": 159,
+      "green_words": 135,
+      "green_fraction": 0.45,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-16",
+      "length_group": "30-99",
+      "total_words": 90,
+      "distinct_words": 67,
+      "green_words": 38,
+      "green_fraction": 0.4222222222222222,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-17",
+      "length_group": "100-199",
+      "total_words": 143,
+      "distinct_words": 93,
+      "green_words": 59,
+      "green_fraction": 0.4125874125874126,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-18",
+      "length_group": "200-400",
+      "total_words": 353,
+      "distinct_words": 170,
+      "green_words": 159,
+      "green_fraction": 0.45042492917847027,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-19",
+      "length_group": "30-99",
+      "total_words": 65,
+      "distinct_words": 53,
+      "green_words": 19,
+      "green_fraction": 0.2923076923076923,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-20",
+      "length_group": "100-199",
+      "total_words": 192,
+      "distinct_words": 113,
+      "green_words": 82,
+      "green_fraction": 0.4270833333333333,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-21",
+      "length_group": "200-400",
+      "total_words": 298,
+      "distinct_words": 159,
+      "green_words": 116,
+      "green_fraction": 0.38926174496644295,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-22",
+      "length_group": "30-99",
+      "total_words": 51,
+      "distinct_words": 41,
+      "green_words": 20,
+      "green_fraction": 0.39215686274509803,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-23",
+      "length_group": "100-199",
+      "total_words": 172,
+      "distinct_words": 110,
+      "green_words": 64,
+      "green_fraction": 0.37209302325581395,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-24",
+      "length_group": "200-400",
+      "total_words": 308,
+      "distinct_words": 158,
+      "green_words": 144,
+      "green_fraction": 0.4675324675324675,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-25",
+      "length_group": "30-99",
+      "total_words": 48,
+      "distinct_words": 36,
+      "green_words": 24,
+      "green_fraction": 0.5,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-26",
+      "length_group": "100-199",
+      "total_words": 128,
+      "distinct_words": 86,
+      "green_words": 62,
+      "green_fraction": 0.484375,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-27",
+      "length_group": "200-400",
+      "total_words": 309,
+      "distinct_words": 168,
+      "green_words": 172,
+      "green_fraction": 0.5566343042071198,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-28",
+      "length_group": "30-99",
+      "total_words": 87,
+      "distinct_words": 56,
+      "green_words": 39,
+      "green_fraction": 0.4482758620689655,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-29",
+      "length_group": "100-199",
+      "total_words": 166,
+      "distinct_words": 110,
+      "green_words": 64,
+      "green_fraction": 0.3855421686746988,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-30",
+      "length_group": "200-400",
+      "total_words": 286,
+      "distinct_words": 158,
+      "green_words": 118,
+      "green_fraction": 0.4125874125874126,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-31",
+      "length_group": "30-99",
+      "total_words": 66,
+      "distinct_words": 51,
+      "green_words": 27,
+      "green_fraction": 0.4090909090909091,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-32",
+      "length_group": "100-199",
+      "total_words": 142,
+      "distinct_words": 92,
+      "green_words": 68,
+      "green_fraction": 0.4788732394366197,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-33",
+      "length_group": "200-400",
+      "total_words": 272,
+      "distinct_words": 150,
+      "green_words": 129,
+      "green_fraction": 0.4742647058823529,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-34",
+      "length_group": "30-99",
+      "total_words": 60,
+      "distinct_words": 47,
+      "green_words": 28,
+      "green_fraction": 0.4666666666666667,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-35",
+      "length_group": "100-199",
+      "total_words": 178,
+      "distinct_words": 108,
+      "green_words": 69,
+      "green_fraction": 0.38764044943820225,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-36",
+      "length_group": "200-400",
+      "total_words": 284,
+      "distinct_words": 151,
+      "green_words": 104,
+      "green_fraction": 0.36619718309859156,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-37",
+      "length_group": "30-99",
+      "total_words": 69,
+      "distinct_words": 54,
+      "green_words": 28,
+      "green_fraction": 0.4057971014492754,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-38",
+      "length_group": "100-199",
+      "total_words": 165,
+      "distinct_words": 96,
+      "green_words": 56,
+      "green_fraction": 0.3393939393939394,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-39",
+      "length_group": "200-400",
+      "total_words": 303,
+      "distinct_words": 171,
+      "green_words": 140,
+      "green_fraction": 0.46204620462046203,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-40",
+      "length_group": "30-99",
+      "total_words": 71,
+      "distinct_words": 44,
+      "green_words": 39,
+      "green_fraction": 0.5492957746478874,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-41",
+      "length_group": "100-199",
+      "total_words": 129,
+      "distinct_words": 91,
+      "green_words": 51,
+      "green_fraction": 0.3953488372093023,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-42",
+      "length_group": "200-400",
+      "total_words": 275,
+      "distinct_words": 155,
+      "green_words": 139,
+      "green_fraction": 0.5054545454545455,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-43",
+      "length_group": "30-99",
+      "total_words": 80,
+      "distinct_words": 53,
+      "green_words": 39,
+      "green_fraction": 0.4875,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-44",
+      "length_group": "100-199",
+      "total_words": 161,
+      "distinct_words": 105,
+      "green_words": 73,
+      "green_fraction": 0.453416149068323,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-45",
+      "length_group": "200-400",
+      "total_words": 364,
+      "distinct_words": 197,
+      "green_words": 182,
+      "green_fraction": 0.5,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-46",
+      "length_group": "30-99",
+      "total_words": 85,
+      "distinct_words": 60,
+      "green_words": 44,
+      "green_fraction": 0.5176470588235295,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-47",
+      "length_group": "100-199",
+      "total_words": 124,
+      "distinct_words": 85,
+      "green_words": 59,
+      "green_fraction": 0.47580645161290325,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-48",
+      "length_group": "200-400",
+      "total_words": 261,
+      "distinct_words": 152,
+      "green_words": 125,
+      "green_fraction": 0.4789272030651341,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-49",
+      "length_group": "30-99",
+      "total_words": 64,
+      "distinct_words": 42,
+      "green_words": 31,
+      "green_fraction": 0.484375,
+      "flagged": false
+    },
+    {
+      "id": "eva-11-50",
+      "length_group": "100-199",
+      "total_words": 149,
+      "distinct_words": 88,
+      "green_words": 68,
+      "green_fraction": 0.4563758389261745,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-01",
+      "length_group": "30-99",
+      "total_words": 37,
+      "distinct_words": 32,
+      "green_words": 11,
+      "green_fraction": 0.2972972972972973,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-02",
+      "length_group": "100-199",
+      "total_words": 182,
+      "distinct_words": 110,
+      "green_words": 94,
+      "green_fraction": 0.5164835164835165,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-03",
+      "length_group": "200-400",
+      "total_words": 322,
+      "distinct_words": 172,
+      "green_words": 128,
+      "green_fraction": 0.39751552795031053,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-04",
+      "length_group": "30-99",
+      "total_words": 72,
+      "distinct_words": 49,
+      "green_words": 39,
+      "green_fraction": 0.5416666666666666,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-05",
+      "length_group": "100-199",
+      "total_words": 159,
+      "distinct_words": 91,
+      "green_words": 88,
+      "green_fraction": 0.5534591194968553,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-06",
+      "length_group": "200-400",
+      "total_words": 304,
+      "distinct_words": 174,
+      "green_words": 144,
+      "green_fraction": 0.47368421052631576,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-07",
+      "length_group": "30-99",
+      "total_words": 84,
+      "distinct_words": 62,
+      "green_words": 46,
+      "green_fraction": 0.5476190476190477,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-08",
+      "length_group": "100-199",
+      "total_words": 160,
+      "distinct_words": 90,
+      "green_words": 71,
+      "green_fraction": 0.44375,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-09",
+      "length_group": "200-400",
+      "total_words": 265,
+      "distinct_words": 132,
+      "green_words": 128,
+      "green_fraction": 0.4830188679245283,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-10",
+      "length_group": "30-99",
+      "total_words": 30,
+      "distinct_words": 25,
+      "green_words": 12,
+      "green_fraction": 0.4,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-11",
+      "length_group": "100-199",
+      "total_words": 149,
+      "distinct_words": 99,
+      "green_words": 80,
+      "green_fraction": 0.5369127516778524,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-12",
+      "length_group": "200-400",
+      "total_words": 369,
+      "distinct_words": 166,
+      "green_words": 156,
+      "green_fraction": 0.42276422764227645,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-13",
+      "length_group": "30-99",
+      "total_words": 38,
+      "distinct_words": 32,
+      "green_words": 11,
+      "green_fraction": 0.2894736842105263,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-14",
+      "length_group": "100-199",
+      "total_words": 159,
+      "distinct_words": 110,
+      "green_words": 71,
+      "green_fraction": 0.44654088050314467,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-15",
+      "length_group": "200-400",
+      "total_words": 266,
+      "distinct_words": 153,
+      "green_words": 135,
+      "green_fraction": 0.5075187969924813,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-16",
+      "length_group": "30-99",
+      "total_words": 60,
+      "distinct_words": 43,
+      "green_words": 29,
+      "green_fraction": 0.48333333333333334,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-17",
+      "length_group": "100-199",
+      "total_words": 189,
+      "distinct_words": 117,
+      "green_words": 98,
+      "green_fraction": 0.5185185185185185,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-18",
+      "length_group": "200-400",
+      "total_words": 265,
+      "distinct_words": 153,
+      "green_words": 133,
+      "green_fraction": 0.5018867924528302,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-19",
+      "length_group": "30-99",
+      "total_words": 56,
+      "distinct_words": 50,
+      "green_words": 34,
+      "green_fraction": 0.6071428571428571,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-20",
+      "length_group": "100-199",
+      "total_words": 171,
+      "distinct_words": 110,
+      "green_words": 95,
+      "green_fraction": 0.5555555555555556,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-21",
+      "length_group": "200-400",
+      "total_words": 292,
+      "distinct_words": 188,
+      "green_words": 145,
+      "green_fraction": 0.4965753424657534,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-22",
+      "length_group": "30-99",
+      "total_words": 96,
+      "distinct_words": 68,
+      "green_words": 50,
+      "green_fraction": 0.5208333333333334,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-23",
+      "length_group": "100-199",
+      "total_words": 163,
+      "distinct_words": 87,
+      "green_words": 87,
+      "green_fraction": 0.5337423312883436,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-24",
+      "length_group": "200-400",
+      "total_words": 383,
+      "distinct_words": 222,
+      "green_words": 178,
+      "green_fraction": 0.46475195822454307,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-25",
+      "length_group": "30-99",
+      "total_words": 90,
+      "distinct_words": 59,
+      "green_words": 47,
+      "green_fraction": 0.5222222222222223,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-26",
+      "length_group": "100-199",
+      "total_words": 175,
+      "distinct_words": 104,
+      "green_words": 88,
+      "green_fraction": 0.5028571428571429,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-27",
+      "length_group": "200-400",
+      "total_words": 307,
+      "distinct_words": 172,
+      "green_words": 150,
+      "green_fraction": 0.48859934853420195,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-28",
+      "length_group": "30-99",
+      "total_words": 93,
+      "distinct_words": 66,
+      "green_words": 49,
+      "green_fraction": 0.5268817204301075,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-29",
+      "length_group": "100-199",
+      "total_words": 134,
+      "distinct_words": 86,
+      "green_words": 64,
+      "green_fraction": 0.47761194029850745,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-30",
+      "length_group": "200-400",
+      "total_words": 263,
+      "distinct_words": 134,
+      "green_words": 118,
+      "green_fraction": 0.44866920152091255,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-31",
+      "length_group": "30-99",
+      "total_words": 48,
+      "distinct_words": 36,
+      "green_words": 29,
+      "green_fraction": 0.6041666666666666,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-32",
+      "length_group": "100-199",
+      "total_words": 139,
+      "distinct_words": 94,
+      "green_words": 81,
+      "green_fraction": 0.5827338129496403,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-33",
+      "length_group": "200-400",
+      "total_words": 282,
+      "distinct_words": 141,
+      "green_words": 146,
+      "green_fraction": 0.5177304964539007,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-34",
+      "length_group": "30-99",
+      "total_words": 86,
+      "distinct_words": 66,
+      "green_words": 34,
+      "green_fraction": 0.3953488372093023,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-35",
+      "length_group": "100-199",
+      "total_words": 132,
+      "distinct_words": 91,
+      "green_words": 60,
+      "green_fraction": 0.45454545454545453,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-36",
+      "length_group": "200-400",
+      "total_words": 309,
+      "distinct_words": 167,
+      "green_words": 162,
+      "green_fraction": 0.5242718446601942,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-37",
+      "length_group": "30-99",
+      "total_words": 84,
+      "distinct_words": 60,
+      "green_words": 45,
+      "green_fraction": 0.5357142857142857,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-38",
+      "length_group": "100-199",
+      "total_words": 156,
+      "distinct_words": 100,
+      "green_words": 67,
+      "green_fraction": 0.42948717948717946,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-39",
+      "length_group": "200-400",
+      "total_words": 264,
+      "distinct_words": 162,
+      "green_words": 138,
+      "green_fraction": 0.5227272727272727,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-40",
+      "length_group": "30-99",
+      "total_words": 73,
+      "distinct_words": 49,
+      "green_words": 39,
+      "green_fraction": 0.5342465753424658,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-41",
+      "length_group": "100-199",
+      "total_words": 190,
+      "distinct_words": 116,
+      "green_words": 95,
+      "green_fraction": 0.5,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-42",
+      "length_group": "200-400",
+      "total_words": 333,
+      "distinct_words": 190,
+      "green_words": 161,
+      "green_fraction": 0.48348348348348347,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-43",
+      "length_group": "30-99",
+      "total_words": 63,
+      "distinct_words": 49,
+      "green_words": 32,
+      "green_fraction": 0.5079365079365079,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-44",
+      "length_group": "100-199",
+      "total_words": 171,
+      "distinct_words": 113,
+      "green_words": 84,
+      "green_fraction": 0.49122807017543857,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-45",
+      "length_group": "200-400",
+      "total_words": 266,
+      "distinct_words": 142,
+      "green_words": 125,
+      "green_fraction": 0.4699248120300752,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-46",
+      "length_group": "30-99",
+      "total_words": 66,
+      "distinct_words": 54,
+      "green_words": 35,
+      "green_fraction": 0.5303030303030303,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-47",
+      "length_group": "100-199",
+      "total_words": 148,
+      "distinct_words": 109,
+      "green_words": 68,
+      "green_fraction": 0.4594594594594595,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-48",
+      "length_group": "200-400",
+      "total_words": 295,
+      "distinct_words": 170,
+      "green_words": 141,
+      "green_fraction": 0.47796610169491527,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-49",
+      "length_group": "30-99",
+      "total_words": 72,
+      "distinct_words": 55,
+      "green_words": 28,
+      "green_fraction": 0.3888888888888889,
+      "flagged": false
+    },
+    {
+      "id": "eva-98-50",
+      "length_group": "100-199",
+      "total_words": 157,
+      "distinct_words": 99,
+      "green_words": 73,
+      "green_fraction": 0.46496815286624205,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-01",
+      "length_group": "30-99",
+      "total_words": 93,
+      "distinct_words": 63,
+      "green_words": 45,
+      "green_fraction": 0.4838709677419355,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-02",
+      "length_group": "100-199",
+      "total_words": 158,
+      "distinct_words": 107,
+      "green_words": 90,
+      "green_fraction": 0.569620253164557,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-03",
+      "length_group": "200-400",
+      "total_words": 354,
+      "distinct_words": 168,
+      "green_words": 151,
+      "green_fraction": 0.4265536723163842,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-04",
+      "length_group": "30-99",
+      "total_words": 85,
+      "distinct_words": 67,
+      "green_words": 50,
+      "green_fraction": 0.5882352941176471,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-05",
+      "length_group": "100-199",
+      "total_words": 157,
+      "distinct_words": 107,
+      "green_words": 68,
+      "green_fraction": 0.43312101910828027,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-06",
+      "length_group": "200-400",
+      "total_words": 247,
+      "distinct_words": 127,
+      "green_words": 113,
+      "green_fraction": 0.4574898785425101,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-07",
+      "length_group": "30-99",
+      "total_words": 62,
+      "distinct_words": 43,
+      "green_words": 34,
+      "green_fraction": 0.5483870967741935,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-08",
+      "length_group": "100-199",
+      "total_words": 188,
+      "distinct_words": 120,
+      "green_words": 90,
+      "green_fraction": 0.4787234042553192,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-09",
+      "length_group": "200-400",
+      "total_words": 279,
+      "distinct_words": 150,
+      "green_words": 128,
+      "green_fraction": 0.45878136200716846,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-10",
+      "length_group": "30-99",
+      "total_words": 53,
+      "distinct_words": 45,
+      "green_words": 24,
+      "green_fraction": 0.4528301886792453,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-11",
+      "length_group": "100-199",
+      "total_words": 143,
+      "distinct_words": 74,
+      "green_words": 67,
+      "green_fraction": 0.46853146853146854,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-12",
+      "length_group": "200-400",
+      "total_words": 268,
+      "distinct_words": 136,
+      "green_words": 115,
+      "green_fraction": 0.4291044776119403,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-13",
+      "length_group": "30-99",
+      "total_words": 65,
+      "distinct_words": 53,
+      "green_words": 27,
+      "green_fraction": 0.4153846153846154,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-14",
+      "length_group": "100-199",
+      "total_words": 146,
+      "distinct_words": 98,
+      "green_words": 57,
+      "green_fraction": 0.3904109589041096,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-15",
+      "length_group": "200-400",
+      "total_words": 326,
+      "distinct_words": 173,
+      "green_words": 146,
+      "green_fraction": 0.44785276073619634,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-16",
+      "length_group": "30-99",
+      "total_words": 77,
+      "distinct_words": 59,
+      "green_words": 30,
+      "green_fraction": 0.38961038961038963,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-17",
+      "length_group": "100-199",
+      "total_words": 153,
+      "distinct_words": 95,
+      "green_words": 61,
+      "green_fraction": 0.39869281045751637,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-18",
+      "length_group": "200-400",
+      "total_words": 283,
+      "distinct_words": 152,
+      "green_words": 128,
+      "green_fraction": 0.45229681978798586,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-19",
+      "length_group": "30-99",
+      "total_words": 83,
+      "distinct_words": 63,
+      "green_words": 40,
+      "green_fraction": 0.4819277108433735,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-20",
+      "length_group": "100-199",
+      "total_words": 136,
+      "distinct_words": 84,
+      "green_words": 64,
+      "green_fraction": 0.47058823529411764,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-21",
+      "length_group": "200-400",
+      "total_words": 319,
+      "distinct_words": 166,
+      "green_words": 145,
+      "green_fraction": 0.45454545454545453,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-22",
+      "length_group": "30-99",
+      "total_words": 96,
+      "distinct_words": 62,
+      "green_words": 49,
+      "green_fraction": 0.5104166666666666,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-23",
+      "length_group": "100-199",
+      "total_words": 193,
+      "distinct_words": 115,
+      "green_words": 83,
+      "green_fraction": 0.43005181347150256,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-24",
+      "length_group": "200-400",
+      "total_words": 288,
+      "distinct_words": 161,
+      "green_words": 132,
+      "green_fraction": 0.4583333333333333,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-25",
+      "length_group": "30-99",
+      "total_words": 72,
+      "distinct_words": 54,
+      "green_words": 34,
+      "green_fraction": 0.4722222222222222,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-26",
+      "length_group": "100-199",
+      "total_words": 155,
+      "distinct_words": 96,
+      "green_words": 59,
+      "green_fraction": 0.38064516129032255,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-27",
+      "length_group": "200-400",
+      "total_words": 266,
+      "distinct_words": 149,
+      "green_words": 130,
+      "green_fraction": 0.48872180451127817,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-28",
+      "length_group": "30-99",
+      "total_words": 62,
+      "distinct_words": 40,
+      "green_words": 23,
+      "green_fraction": 0.3709677419354839,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-29",
+      "length_group": "100-199",
+      "total_words": 130,
+      "distinct_words": 79,
+      "green_words": 59,
+      "green_fraction": 0.45384615384615384,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-30",
+      "length_group": "200-400",
+      "total_words": 296,
+      "distinct_words": 169,
+      "green_words": 137,
+      "green_fraction": 0.46283783783783783,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-31",
+      "length_group": "30-99",
+      "total_words": 74,
+      "distinct_words": 58,
+      "green_words": 41,
+      "green_fraction": 0.5540540540540541,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-32",
+      "length_group": "100-199",
+      "total_words": 138,
+      "distinct_words": 86,
+      "green_words": 54,
+      "green_fraction": 0.391304347826087,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-33",
+      "length_group": "200-400",
+      "total_words": 354,
+      "distinct_words": 166,
+      "green_words": 148,
+      "green_fraction": 0.4180790960451977,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-34",
+      "length_group": "30-99",
+      "total_words": 45,
+      "distinct_words": 37,
+      "green_words": 18,
+      "green_fraction": 0.4,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-35",
+      "length_group": "100-199",
+      "total_words": 167,
+      "distinct_words": 101,
+      "green_words": 63,
+      "green_fraction": 0.3772455089820359,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-36",
+      "length_group": "200-400",
+      "total_words": 341,
+      "distinct_words": 180,
+      "green_words": 159,
+      "green_fraction": 0.4662756598240469,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-37",
+      "length_group": "30-99",
+      "total_words": 87,
+      "distinct_words": 64,
+      "green_words": 32,
+      "green_fraction": 0.367816091954023,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-38",
+      "length_group": "100-199",
+      "total_words": 134,
+      "distinct_words": 83,
+      "green_words": 62,
+      "green_fraction": 0.4626865671641791,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-39",
+      "length_group": "200-400",
+      "total_words": 281,
+      "distinct_words": 146,
+      "green_words": 140,
+      "green_fraction": 0.498220640569395,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-40",
+      "length_group": "30-99",
+      "total_words": 74,
+      "distinct_words": 58,
+      "green_words": 37,
+      "green_fraction": 0.5,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-41",
+      "length_group": "100-199",
+      "total_words": 147,
+      "distinct_words": 98,
+      "green_words": 69,
+      "green_fraction": 0.46938775510204084,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-42",
+      "length_group": "200-400",
+      "total_words": 318,
+      "distinct_words": 180,
+      "green_words": 164,
+      "green_fraction": 0.5157232704402516,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-43",
+      "length_group": "30-99",
+      "total_words": 64,
+      "distinct_words": 44,
+      "green_words": 32,
+      "green_fraction": 0.5,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-44",
+      "length_group": "100-199",
+      "total_words": 198,
+      "distinct_words": 104,
+      "green_words": 105,
+      "green_fraction": 0.5303030303030303,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-45",
+      "length_group": "200-400",
+      "total_words": 264,
+      "distinct_words": 144,
+      "green_words": 141,
+      "green_fraction": 0.5340909090909091,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-46",
+      "length_group": "30-99",
+      "total_words": 35,
+      "distinct_words": 29,
+      "green_words": 19,
+      "green_fraction": 0.5428571428571428,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-47",
+      "length_group": "100-199",
+      "total_words": 147,
+      "distinct_words": 97,
+      "green_words": 75,
+      "green_fraction": 0.5102040816326531,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-48",
+      "length_group": "200-400",
+      "total_words": 316,
+      "distinct_words": 165,
+      "green_words": 147,
+      "green_fraction": 0.4651898734177215,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-49",
+      "length_group": "30-99",
+      "total_words": 73,
+      "distinct_words": 51,
+      "green_words": 33,
+      "green_fraction": 0.4520547945205479,
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-50",
+      "length_group": "100-199",
+      "total_words": 187,
+      "distinct_words": 107,
+      "green_words": 82,
+      "green_fraction": 0.4385026737967914,
+      "flagged": false
+    }
+  ],
+  "attempts": [
+    {
+      "id": "eva-11-51",
+      "split": "evaluation",
+      "before": {
+        "total_words": 170,
+        "distinct_words": 104,
+        "green_words": 86,
+        "green_fraction": 0.5058823529411764,
+        "flagged": false
+      },
+      "after": {
+        "total_words": 170,
+        "distinct_words": 104,
+        "green_words": 91,
+        "green_fraction": 0.5352941176470588,
+        "flagged": false
+      },
+      "target_reached": false,
+      "changed_words": 5,
+      "changes": [
+        {
+          "original_word_index": 108,
+          "before": "large",
+          "after": "big"
+        },
+        {
+          "original_word_index": 84,
+          "before": "thought",
+          "after": "believed"
+        },
+        {
+          "original_word_index": 45,
+          "before": "thought",
+          "after": "believed"
+        },
+        {
+          "original_word_index": 38,
+          "before": "often",
+          "after": "frequently"
+        },
+        {
+          "original_word_index": 2,
+          "before": "said",
+          "after": "remarked"
+        }
+      ],
+      "elapsed_seconds": 0.05025950004346669,
+      "manual_passage_editing_minutes": 0,
+      "editing_method": "Automatic fixed synonym list; one right-to-left pass.",
+      "output_path": "data/versions/eva-11-51/output.txt",
+      "output_sha256": "853a66b4a027ecd43607dcaf6934b6aebbe8c01b923303d6d56b246897fc71b0",
+      "version_paths": [
+        "data/versions/eva-11-51/v00.txt",
+        "data/versions/eva-11-51/v01.txt",
+        "data/versions/eva-11-51/v02.txt",
+        "data/versions/eva-11-51/v03.txt",
+        "data/versions/eva-11-51/v04.txt",
+        "data/versions/eva-11-51/v05.txt"
+      ],
+      "stop_reason": "end_of_pass"
+    },
+    {
+      "id": "eva-11-52",
+      "split": "evaluation",
+      "before": {
+        "total_words": 167,
+        "distinct_words": 93,
+        "green_words": 93,
+        "green_fraction": 0.5568862275449101,
+        "flagged": false
+      },
+      "after": {
+        "total_words": 167,
+        "distinct_words": 92,
+        "green_words": 98,
+        "green_fraction": 0.5868263473053892,
+        "flagged": false
+      },
+      "target_reached": false,
+      "changed_words": 5,
+      "changes": [
+        {
+          "original_word_index": 155,
+          "before": "said",
+          "after": "remarked"
+        },
+        {
+          "original_word_index": 116,
+          "before": "large",
+          "after": "big"
+        },
+        {
+          "original_word_index": 107,
+          "before": "said",
+          "after": "remarked"
+        },
+        {
+          "original_word_index": 76,
+          "before": "large",
+          "after": "big"
+        },
+        {
+          "original_word_index": 59,
+          "before": "thought",
+          "after": "believed"
+        }
+      ],
+      "elapsed_seconds": 0.04751830000896007,
+      "manual_passage_editing_minutes": 0,
+      "editing_method": "Automatic fixed synonym list; one right-to-left pass.",
+      "output_path": "data/versions/eva-11-52/output.txt",
+      "output_sha256": "ff31f39702c06ec38ce1edfc69fa09c549fe08d579337db987c4a912a4ef41e3",
+      "version_paths": [
+        "data/versions/eva-11-52/v00.txt",
+        "data/versions/eva-11-52/v01.txt",
+        "data/versions/eva-11-52/v02.txt",
+        "data/versions/eva-11-52/v03.txt",
+        "data/versions/eva-11-52/v04.txt",
+        "data/versions/eva-11-52/v05.txt"
+      ],
+      "stop_reason": "end_of_pass"
+    },
+    {
+      "id": "eva-11-53",
+      "split": "evaluation",
+      "before": {
+        "total_words": 152,
+        "distinct_words": 85,
+        "green_words": 52,
+        "green_fraction": 0.34210526315789475,
+        "flagged": false
+      },
+      "after": {
+        "total_words": 152,
+        "distinct_words": 85,
+        "green_words": 57,
+        "green_fraction": 0.375,
+        "flagged": false
+      },
+      "target_reached": false,
+      "changed_words": 5,
+      "changes": [
+        {
+          "original_word_index": 101,
+          "before": "said",
+          "after": "remarked"
+        },
+        {
+          "original_word_index": 77,
+          "before": "hastily",
+          "after": "quickly"
+        },
+        {
+          "original_word_index": 55,
+          "before": "thought",
+          "after": "believed"
+        },
+        {
+          "original_word_index": 38,
+          "before": "said",
+          "after": "remarked"
+        },
+        {
+          "original_word_index": 4,
+          "before": "said",
+          "after": "remarked"
+        }
+      ],
+      "elapsed_seconds": 0.04016780003439635,
+      "manual_passage_editing_minutes": 0,
+      "editing_method": "Automatic fixed synonym list; one right-to-left pass.",
+      "output_path": "data/versions/eva-11-53/output.txt",
+      "output_sha256": "7712fe00b990e4fddf416b2f269aa92d5fe41cacd782483514f3d979df6f0350",
+      "version_paths": [
+        "data/versions/eva-11-53/v00.txt",
+        "data/versions/eva-11-53/v01.txt",
+        "data/versions/eva-11-53/v02.txt",
+        "data/versions/eva-11-53/v03.txt",
+        "data/versions/eva-11-53/v04.txt",
+        "data/versions/eva-11-53/v05.txt"
+      ],
+      "stop_reason": "end_of_pass"
+    },
+    {
+      "id": "eva-11-54",
+      "split": "evaluation",
+      "before": {
+        "total_words": 168,
+        "distinct_words": 102,
+        "green_words": 81,
+        "green_fraction": 0.48214285714285715,
+        "flagged": false
+      },
+      "after": {
+        "total_words": 168,
+        "distinct_words": 102,
+        "green_words": 84,
+        "green_fraction": 0.5,
+        "flagged": false
+      },
+      "target_reached": false,
+      "changed_words": 3,
+      "changes": [
+        {
+          "original_word_index": 90,
+          "before": "said",
+          "after": "remarked"
+        },
+        {
+          "original_word_index": 58,
+          "before": "thought",
+          "after": "believed"
+        },
+        {
+          "original_word_index": 40,
+          "before": "said",
+          "after": "remarked"
+        }
+      ],
+      "elapsed_seconds": 0.04858810000587255,
+      "manual_passage_editing_minutes": 0,
+      "editing_method": "Automatic fixed synonym list; one right-to-left pass.",
+      "output_path": "data/versions/eva-11-54/output.txt",
+      "output_sha256": "d54e513d939ad7d75c572cff0500f42e984db372febc84f1e419d626c2c8aa00",
+      "version_paths": [
+        "data/versions/eva-11-54/v00.txt",
+        "data/versions/eva-11-54/v01.txt",
+        "data/versions/eva-11-54/v02.txt",
+        "data/versions/eva-11-54/v03.txt"
+      ],
+      "stop_reason": "end_of_pass"
+    },
+    {
+      "id": "eva-98-51",
+      "split": "evaluation",
+      "before": {
+        "total_words": 148,
+        "distinct_words": 92,
+        "green_words": 71,
+        "green_fraction": 0.4797297297297297,
+        "flagged": false
+      },
+      "after": {
+        "total_words": 148,
+        "distinct_words": 92,
+        "green_words": 73,
+        "green_fraction": 0.49324324324324326,
+        "flagged": false
+      },
+      "target_reached": false,
+      "changed_words": 2,
+      "changes": [
+        {
+          "original_word_index": 136,
+          "before": "fear",
+          "after": "dread"
+        },
+        {
+          "original_word_index": 94,
+          "before": "asked",
+          "after": "inquired"
+        }
+      ],
+      "elapsed_seconds": 0.03762800002004951,
+      "manual_passage_editing_minutes": 0,
+      "editing_method": "Automatic fixed synonym list; one right-to-left pass.",
+      "output_path": "data/versions/eva-98-51/output.txt",
+      "output_sha256": "faeb1153fd667ab4d7420a2824ceae0c430df8ef11a7cbdf828e1c27213609f8",
+      "version_paths": [
+        "data/versions/eva-98-51/v00.txt",
+        "data/versions/eva-98-51/v01.txt",
+        "data/versions/eva-98-51/v02.txt"
+      ],
+      "stop_reason": "end_of_pass"
+    },
+    {
+      "id": "eva-98-52",
+      "split": "evaluation",
+      "before": {
+        "total_words": 173,
+        "distinct_words": 114,
+        "green_words": 97,
+        "green_fraction": 0.5606936416184971,
+        "flagged": false
+      },
+      "after": {
+        "total_words": 173,
+        "distinct_words": 114,
+        "green_words": 97,
+        "green_fraction": 0.5606936416184971,
+        "flagged": false
+      },
+      "target_reached": false,
+      "changed_words": 0,
+      "changes": [],
+      "elapsed_seconds": 0.04992709995713085,
+      "manual_passage_editing_minutes": 0,
+      "editing_method": "Automatic fixed synonym list; one right-to-left pass.",
+      "output_path": "data/versions/eva-98-52/output.txt",
+      "output_sha256": "afd91c647889be258695bfc26edbc0c973acd003a94978e2ff6d5577a918039d",
+      "version_paths": [
+        "data/versions/eva-98-52/v00.txt"
+      ],
+      "stop_reason": "end_of_pass"
+    },
+    {
+      "id": "eva-98-53",
+      "split": "evaluation",
+      "before": {
+        "total_words": 171,
+        "distinct_words": 100,
+        "green_words": 86,
+        "green_fraction": 0.5029239766081871,
+        "flagged": false
+      },
+      "after": {
+        "total_words": 171,
+        "distinct_words": 100,
+        "green_words": 87,
+        "green_fraction": 0.5087719298245614,
+        "flagged": false
+      },
+      "target_reached": false,
+      "changed_words": 1,
+      "changes": [
+        {
+          "original_word_index": 67,
+          "before": "said",
+          "after": "remarked"
+        }
+      ],
+      "elapsed_seconds": 0.049208100070245564,
+      "manual_passage_editing_minutes": 0,
+      "editing_method": "Automatic fixed synonym list; one right-to-left pass.",
+      "output_path": "data/versions/eva-98-53/output.txt",
+      "output_sha256": "f9041fa4a722e03f561d771f935423b6e389bdd7b0595f3e0a28dbb1f755a601",
+      "version_paths": [
+        "data/versions/eva-98-53/v00.txt",
+        "data/versions/eva-98-53/v01.txt"
+      ],
+      "stop_reason": "end_of_pass"
+    },
+    {
+      "id": "eva-1400-51",
+      "split": "evaluation",
+      "before": {
+        "total_words": 168,
+        "distinct_words": 102,
+        "green_words": 76,
+        "green_fraction": 0.4523809523809524,
+        "flagged": false
+      },
+      "after": {
+        "total_words": 168,
+        "distinct_words": 102,
+        "green_words": 76,
+        "green_fraction": 0.4523809523809524,
+        "flagged": false
+      },
+      "target_reached": false,
+      "changed_words": 0,
+      "changes": [],
+      "elapsed_seconds": 0.04616629995871335,
+      "manual_passage_editing_minutes": 0,
+      "editing_method": "Automatic fixed synonym list; one right-to-left pass.",
+      "output_path": "data/versions/eva-1400-51/output.txt",
+      "output_sha256": "854eba07672fa55dccc2f87a76f4cfe9f27c1dc0343119713f259746c46903fe",
+      "version_paths": [
+        "data/versions/eva-1400-51/v00.txt"
+      ],
+      "stop_reason": "end_of_pass"
+    },
+    {
+      "id": "eva-1400-52",
+      "split": "evaluation",
+      "before": {
+        "total_words": 175,
+        "distinct_words": 114,
+        "green_words": 90,
+        "green_fraction": 0.5142857142857142,
+        "flagged": false
+      },
+      "after": {
+        "total_words": 175,
+        "distinct_words": 114,
+        "green_words": 97,
+        "green_fraction": 0.5542857142857143,
+        "flagged": false
+      },
+      "target_reached": false,
+      "changed_words": 7,
+      "changes": [
+        {
+          "original_word_index": 149,
+          "before": "said",
+          "after": "remarked"
+        },
+        {
+          "original_word_index": 131,
+          "before": "little",
+          "after": "small"
+        },
+        {
+          "original_word_index": 64,
+          "before": "presently",
+          "after": "soon"
+        },
+        {
+          "original_word_index": 55,
+          "before": "said",
+          "after": "remarked"
+        },
+        {
+          "original_word_index": 36,
+          "before": "thought",
+          "after": "believed"
+        },
+        {
+          "original_word_index": 28,
+          "before": "said",
+          "after": "remarked"
+        },
+        {
+          "original_word_index": 3,
+          "before": "said",
+          "after": "remarked"
+        }
+      ],
+      "elapsed_seconds": 0.0536522000329569,
+      "manual_passage_editing_minutes": 0,
+      "editing_method": "Automatic fixed synonym list; one right-to-left pass.",
+      "output_path": "data/versions/eva-1400-52/output.txt",
+      "output_sha256": "327ea6569984ea1872f46a77278e673126d1c2c8ac4b0c420d4c61b6e61ba050",
+      "version_paths": [
+        "data/versions/eva-1400-52/v00.txt",
+        "data/versions/eva-1400-52/v01.txt",
+        "data/versions/eva-1400-52/v02.txt",
+        "data/versions/eva-1400-52/v03.txt",
+        "data/versions/eva-1400-52/v04.txt",
+        "data/versions/eva-1400-52/v05.txt",
+        "data/versions/eva-1400-52/v06.txt",
+        "data/versions/eva-1400-52/v07.txt"
+      ],
+      "stop_reason": "end_of_pass"
+    },
+    {
+      "id": "eva-1400-53",
+      "split": "evaluation",
+      "before": {
+        "total_words": 126,
+        "distinct_words": 78,
+        "green_words": 57,
+        "green_fraction": 0.4523809523809524,
+        "flagged": false
+      },
+      "after": {
+        "total_words": 126,
+        "distinct_words": 78,
+        "green_words": 61,
+        "green_fraction": 0.48412698412698413,
+        "flagged": false
+      },
+      "target_reached": false,
+      "changed_words": 4,
+      "changes": [
+        {
+          "original_word_index": 113,
+          "before": "often",
+          "after": "frequently"
+        },
+        {
+          "original_word_index": 59,
+          "before": "said",
+          "after": "remarked"
+        },
+        {
+          "original_word_index": 14,
+          "before": "said",
+          "after": "remarked"
+        },
+        {
+          "original_word_index": 5,
+          "before": "said",
+          "after": "remarked"
+        }
+      ],
+      "elapsed_seconds": 0.03091209998819977,
+      "manual_passage_editing_minutes": 0,
+      "editing_method": "Automatic fixed synonym list; one right-to-left pass.",
+      "output_path": "data/versions/eva-1400-53/output.txt",
+      "output_sha256": "f3e6daf1fa04a393d9d69656d97a401c72faa30006ed7ae7229034c0946fccb0",
+      "version_paths": [
+        "data/versions/eva-1400-53/v00.txt",
+        "data/versions/eva-1400-53/v01.txt",
+        "data/versions/eva-1400-53/v02.txt",
+        "data/versions/eva-1400-53/v03.txt",
+        "data/versions/eva-1400-53/v04.txt"
+      ],
+      "stop_reason": "end_of_pass"
+    }
+  ],
+  "artificial_repetition_examples_excluded_from_rates": [
+    {
+      "word": "the",
+      "total_words": 1000,
+      "distinct_words": 1,
+      "green_words": 1000,
+      "green_fraction": 1.0,
+      "flagged": true
+    },
+    {
+      "word": "book",
+      "total_words": 1000,
+      "distinct_words": 1,
+      "green_words": 0,
+      "green_fraction": 0.0,
+      "flagged": false
+    },
+    {
+      "word": "water",
+      "total_words": 1000,
+      "distinct_words": 1,
+      "green_words": 0,
+      "green_fraction": 0.0,
+      "flagged": false
+    },
+    {
+      "word": "garden",
+      "total_words": 1000,
+      "distinct_words": 1,
+      "green_words": 1000,
+      "green_fraction": 1.0,
+      "flagged": true
+    }
+  ],
+  "finished_utc": "2026-11-02T00:24:52.245479+00:00"
+}

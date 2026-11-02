@@ -1,0 +1,113 @@
+{
+  "false_positives": 0,
+  "unmarked_tested": 150,
+  "false_positive_rate": 0.0,
+  "flagged_outputs": 0,
+  "watermarking_attempts": 10,
+  "detection_rate": 0.0,
+  "target_reached": 0,
+  "reviewed_usable_and_flagged": 0,
+  "reviewed_usable_success_rate": 0.0,
+  "quality_status": "preliminary checks; solo project",
+  "assumed_annual_unmarked_submissions": 10000,
+  "expected_annual_false_flags": 0.0,
+  "length_groups": [
+    {
+      "length_group": "30-99",
+      "flagged": 0,
+      "tested": 51
+    },
+    {
+      "length_group": "100-199",
+      "flagged": 0,
+      "tested": 51
+    },
+    {
+      "length_group": "200-400",
+      "flagged": 0,
+      "tested": 48
+    }
+  ],
+  "quality_reviews": [
+    {
+      "id": "eva-11-51",
+      "quality_pass": false,
+      "review_type": "preliminary_review",
+      "reviewer": "Preliminary check",
+      "notes": "Believed Alice is an awkward thought-reporting tag; the remaining narrative is comprehensible.",
+      "flagged": false
+    },
+    {
+      "id": "eva-11-52",
+      "quality_pass": false,
+      "review_type": "preliminary_review",
+      "reviewer": "Preliminary check",
+      "notes": "Believed Alice is an awkward thought-reporting tag; the remaining substitutions preserve the scene.",
+      "flagged": false
+    },
+    {
+      "id": "eva-11-53",
+      "quality_pass": false,
+      "review_type": "preliminary_review",
+      "reviewer": "Preliminary check",
+      "notes": "Main events retained, but believed Alice is an awkward replacement for a thought-reporting dialogue tag.",
+      "flagged": false
+    },
+    {
+      "id": "eva-11-54",
+      "quality_pass": false,
+      "review_type": "preliminary_review",
+      "reviewer": "Preliminary check",
+      "notes": "Believed over all she could remember breaks the thought over construction.",
+      "flagged": false
+    },
+    {
+      "id": "eva-98-51",
+      "quality_pass": false,
+      "review_type": "preliminary_review",
+      "reviewer": "Preliminary check",
+      "notes": "He inquired her the question is ungrammatical; dread preserves the main emotion.",
+      "flagged": false
+    },
+    {
+      "id": "eva-98-52",
+      "quality_pass": true,
+      "review_type": "preliminary_review",
+      "reviewer": "Preliminary check",
+      "notes": "Unchanged passage; meaning and readability retained.",
+      "flagged": false
+    },
+    {
+      "id": "eva-98-53",
+      "quality_pass": true,
+      "review_type": "preliminary_review",
+      "reviewer": "Preliminary check",
+      "notes": "The speech-tag substitution leaves the dispute and prose readable.",
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-51",
+      "quality_pass": true,
+      "review_type": "preliminary_review",
+      "reviewer": "Preliminary check",
+      "notes": "Unchanged passage; meaning and readability retained.",
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-52",
+      "quality_pass": true,
+      "review_type": "preliminary_review",
+      "reviewer": "Preliminary check",
+      "notes": "The belief, time, size, and speech-tag substitutions remain readable and retain the main criticism.",
+      "flagged": false
+    },
+    {
+      "id": "eva-1400-53",
+      "quality_pass": true,
+      "review_type": "preliminary_review",
+      "reviewer": "Preliminary check",
+      "notes": "Remarked and frequently preserve the account of buying mourning clothes.",
+      "flagged": false
+    }
+  ]
+}

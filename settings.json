@@ -1,0 +1,20 @@
+{
+  "key_file": "experiment-key.hex",
+  "key_sha256": "f6b1c830660a0e2905c28618af304c912884fd5dbc81cfc24819daa735781e3b",
+  "threshold": 0.65,
+  "target": 0.7,
+  "max_changed_words": 30,
+  "stopping_rule": "Stop on reaching target, 30 changed occurrences, or end of one right-to-left pass, whichever comes first. Keep final output even if target is missed.",
+  "word_processing": "NFC Unicode normalization, lowercase, then maximal Unicode letter runs using [^\\W\\d_]+. Apostrophes, hyphens, punctuation, digits, underscores and zero-width format characters separate words. No casefold or NFKC. Repeated occurrences counted.",
+  "candidate_thresholds": [
+    0.55,
+    0.6,
+    0.65
+  ],
+  "threshold_selection": "Minimize (unmarked calibration false positives / 150) + (unflagged calibration outputs / 5); tie favors higher threshold. Quality is reviewed separately, not assumed.",
+  "manifest_sha256": "4feeb2f02c59a3dec49799c14723a0b9c5c18bcb9bcc1e056f2ee0b0c45f2bee",
+  "synonyms_sha256": "eafed31f4f8e819c845183ea2442cd53660ed5c973417ed9ccebfe37803c65c1",
+  "detector_sha256": "4fe934fc2208201a63201a29d8529d904acc0482bb8b3bdd435190384e696775",
+  "experiment_sha256": "a804fb3c0c34767c7c8d53a0ab8a5b511b29e0dcef999222839db1fb6477dc38",
+  "frozen_utc": "2026-11-02T00:24:51.680799+00:00"
+}
